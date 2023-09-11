@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <User UserName="admin" Password="YWRtaW4=" Remember="True" />
+  <Database ServerName="." DatabaseName="LOG" UserName="Process" Password="ODIxMzU3OTI=" />
+  <Gate Device="1" SerialPort="COM9" NetPort="4321" IP="192.168.1.82" MessageTime="3" ReadCardTime="5" Salon1ID="1" Salon1Door="1" Salon1Shortkey="F12" Salon1PrintFish="0" Salon1OpenDoorTime="6" Salon1RollCallType="1" Salon2ID="2" Salon2Door="2" Salon2Shortkey="F2" Salon2PrintFish="0" Salon2OpenDoorTime="6" Salon2RollCallType="1" Salon3ID="3" Salon3Door="3" Salon3Shortkey="F1" Salon3PrintFish="0" Salon3OpenDoorTime="6" Salon3RollCallType="1" Salon4ID="" Salon4Door="" Salon4Shortkey="" Salon4PrintFish="" Salon4OpenDoorTime="" Salon4RollCallType="" />
+  <RollCall InformationType="3" InformationTime="6" InformationDetails="4" DebtValidation="False" ShopValidation="False" InsuranceValidation="False" ComputerMessageTime="7" LogoutTimeout="4" />
+  <Sound Login="2" Logout="2" Volume="100" />
+  <Lock Status="True" Type="0" AllocateType="1" ReaderPort="COM11" IP="192.168.1.80" OpenTime="5000" NetPort="4322" ReaderAddress="0" SalonID="1" />
+  <Recipt Header="به نام خداوند" Footer="محسن" />
+</configuration>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <register company="UHJvY2Vzcw==" date="MTM5OC8wOC8wNw==" key="TXpNMk1EUTJNREkwT0RVeE5nPT0=" />
+  <user username="admin" password="MTIz" remember="true" />
+  <device servername="Localhost" port="1234" />
+  <planning validity="30,40,50,90" />
+  <Camera Name="USB_2.0_Webcam" />
+  <fish font="b zar" size="12" count="1" />
+  <sms welcomemessage="" signature="" ip="87.107.121.52" username="" number="" status="false" password="" birthdaystatus="true" birthdaymessage="سالروز تولدتان مبارک" marriagestatus="false" marriagemessage="سالروز ازدواجتان گرامی باد" insurancestatus="false" insurancemessage="اعتبار بیمه شما رو به پایان می باشد" welcomestatus="true" welcomemessage1="حضور شما را در این مجموعه مقدم میداریم" welcomemessage2="" expireRegisterstatus="true" expireregistermessage="اعتبار شما رو به پایان می باشد" sessioncount="2" daycount="2" registerstatus="false" mobile="" />
+  <database servername="." databasename="Log" username="Process" password="ODIxMzU3OTI=" backuppath1="d:\Backup\Path1" backuppath2="E:\Backup\Path2" auto="none" />
+  <cardid color="0,0,0" enabled="false" />
+  <Femalecard1 id="" />
+  <Malecard1 id="20200106174844" />
+  <Malecard2 id="20200106185831" />
+  <Malecard3 id="0010372618" />
+  <Malecard4 id="" />
+  <Malecard5 id="" />
+  <Malecard6 id="" />
+  <Malecard7 id="" />
+  <Malecard8 id="" />
+  <Malecard9 id="" />
+  <Femalecard2 id="" />
+  <Femalecard3 id="" />
+  <Femalecard4 id="" />
+  <Femalecard5 id="" />
+  <Femalecard6 id="" />
+  <Femalecard7 id="" />
+  <Femalecard8 id="" />
+  <Femalecard9 id="" />
+  <Recipt Header="باشگاه بدنسازی کیارش" Footer="32210875-32210886" />
+</configuration>

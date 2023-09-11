@@ -1,0 +1,3 @@
+USE [LOG]
+ALTER TABLE Members
+Add [Date] NVARCHAR(10) NULL

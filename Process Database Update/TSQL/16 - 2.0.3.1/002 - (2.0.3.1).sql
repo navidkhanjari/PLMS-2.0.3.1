@@ -1,0 +1,4 @@
+USE [Log]
+
+ALTER TABLE Members
+ADD GroupID INT DEFAULT NULL;

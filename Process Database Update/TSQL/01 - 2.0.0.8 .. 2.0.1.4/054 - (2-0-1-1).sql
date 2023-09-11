@@ -1,0 +1,3 @@
+USE [LOG]
+ALTER TABLE Members
+Add LogCardId NVARCHAR(50) NULL

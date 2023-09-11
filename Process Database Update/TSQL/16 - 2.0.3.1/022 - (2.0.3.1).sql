@@ -1,0 +1,4 @@
+USE [Log]
+
+ALTER TABLE Keys
+ADD [Date] nchar(10) DEFAULT NULL;
