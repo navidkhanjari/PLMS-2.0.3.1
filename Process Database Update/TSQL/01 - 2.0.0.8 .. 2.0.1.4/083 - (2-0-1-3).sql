@@ -1,0 +1,3 @@
+USE [LOG]
+ALTER TABLE Plannings
+Add [Category] NVARCHAR(100) NULL
